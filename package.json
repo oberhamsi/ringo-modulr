@@ -3,5 +3,6 @@
     "version": "0.0.0",
     "description": "A client side CommonJS packager",
     "keywords": ["commonjs", "modules", "browser"],
-    "author": "Hannes Wallnöfer (http://hns.github.com/) <hannes@helma.at>"
+    "author": "Hannes Wallnöfer (http://hns.github.com/) <hannes@helma.at>",
+    "main": "lib/modulr.js"
 }
